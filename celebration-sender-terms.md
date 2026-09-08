@@ -8,7 +8,7 @@ permalink: /celebration-sender-terms/
 
 **Last updated:** June 17, 2026
 
-These Terms & Conditions ("Terms") govern use of the Benosso Celebration Sender application ("the App"), provided by Benosso (Osman Ali Kacar), benosso.com, osmanalikacar20@gmail.com. By installing or using the App, the store owner ("the Merchant") agrees to these Terms.
+These Terms & Conditions ("Terms") govern use of the Benosso Celebration Sender application ("the App"), provided by Benosso İnternet Yazılım İthalat İhracat Ticaret ve Bilgi Teknolojileri A.Ş. ("Benosso"), a company registered in Türkiye (tax no. 1640774681), benosso.com, support@benosso.com. By installing or using the App, the store owner ("the Merchant") agrees to these Terms.
 
 ## 1. The Service
 The App automatically sends celebration emails — for birthdays, holidays, and order anniversaries — with discount coupons, to the Merchant's subscribed customers. Features available depend on the Merchant's plan (Free, Basic, or Pro).
@@ -50,4 +50,4 @@ We may update these Terms; the "Last updated" date reflects any change. Continue
 These Terms are governed by the laws of the Republic of Türkiye, without regard to conflict-of-law rules.
 
 ## 13. Contact
-Questions: **osmanalikacar20@gmail.com** — Benosso, benosso.com
+Questions: **support@benosso.com** — Benosso İnternet Yazılım A.Ş., benosso.com

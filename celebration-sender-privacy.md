@@ -8,7 +8,7 @@ permalink: /celebration-sender-privacy/
 
 **Last updated:** June 17, 2026
 
-This Privacy Policy describes how Benosso Celebration Sender ("we", "our", or "the App") collects, uses, and protects information when a store owner ("the Merchant") installs and uses the App on their site. Provider: Benosso (Osman Ali Kacar), benosso.com, osmanalikacar20@gmail.com.
+This Privacy Policy describes how Benosso Celebration Sender ("we", "our", or "the App") collects, uses, and protects information when a store owner ("the Merchant") installs and uses the App on their site. Provider: Benosso İnternet Yazılım İthalat İhracat Ticaret ve Bilgi Teknolojileri A.Ş. ("Benosso"), a company registered in Türkiye (tax no. 1640774681), benosso.com, support@benosso.com.
 
 By installing and using the App, the Merchant agrees to the collection and use of information in accordance with this policy.
 
@@ -42,7 +42,7 @@ We use **Resend (resend.com)** to deliver email. The recipient's email address, 
 - The sending domain is authenticated with SPF, DKIM, and DMARC.
 
 ## 6. Your Rights
-Customers may unsubscribe at any time from any email. Merchants and their customers may request access to, or deletion of, their data by contacting osmanalikacar20@gmail.com. Requests are actioned within 30 days. Uninstalling the App removes its settings and logs from the site.
+Customers may unsubscribe at any time from any email. Merchants and their customers may request access to, or deletion of, their data by contacting support@benosso.com. Requests are actioned within 30 days. Uninstalling the App removes its settings and logs from the site.
 
 ## 7. Children
 The App is a business tool for store owners and is not directed at children.
@@ -51,4 +51,4 @@ The App is a business tool for store owners and is not directed at children.
 We may update this policy; the "Last updated" date reflects any change.
 
 ## 9. Contact
-Questions: **osmanalikacar20@gmail.com** — Benosso, benosso.com
+Questions: **support@benosso.com** — Benosso İnternet Yazılım A.Ş., benosso.com
