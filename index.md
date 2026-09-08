@@ -25,6 +25,7 @@ Privacy policies and terms of use for the Benosso apps on the Wix App Market.
 
 ## Benosso Telegram Notifier
 - [Privacy Policy](/telegram-notifier-privacy/)
+- [Terms of Use](/telegram-notifier-terms/)
 
 ## Benosso E-Fatura
 Turkish e-invoicing app. Its legal texts are published inside the app:
