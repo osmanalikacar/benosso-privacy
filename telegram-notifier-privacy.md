@@ -6,7 +6,7 @@ permalink: /telegram-notifier-privacy/
 
 # Privacy Policy for Benosso Telegram Notifier
 
-**Last updated:** May 26, 2026
+**Last updated:** October 22, 2026
 
 ## 1. Introduction
 
@@ -21,6 +21,12 @@ When you install and use Benosso Telegram Notifier, we collect and process the f
 ### 2.1 Site Information
 - Wix Site ID
 - Site owner contact email (for support purposes)
+- Site name and address
+- Install, uninstall and subscription events (plan, period, cancellation)
+- Non-personal usage counters (aggregate numbers only)
+- Optional answer to an uninstall/cancellation survey (a reason code and optional free text)
+
+Benosso İnternet Yazılım İthalat İhracat Ticaret ve Bilgi Teknolojileri A.Ş. ("Benosso") is the data controller for this site-owner data.
 
 ### 2.2 Order Information
 When an order is placed on your Wix site, we process:
@@ -44,12 +50,17 @@ We use the collected information solely for the following purposes:
 - To provide, maintain, and improve the App's functionality
 - To respond to your support requests
 - To comply with legal obligations
+- To monitor installation, usage and operational health of the App; to help site owners whose setup is stuck and to send them service notices; and, through the optional survey, to improve the product. These emails are service notices, not marketing, and every email contains a one-click option to stop receiving them.
+
+Legal basis for the site-owner data: performance of the contract and Benosso's legitimate interests (KVKK Art. 5/2-c and 5/2-f; for GDPR purposes, Art. 6(1)(b) and 6(1)(f)).
 
 ## 4. Data Sharing and Third Parties
 
 We share order information with **Telegram Bot API** (operated by Telegram Messenger Inc.) for the sole purpose of delivering notifications to your chosen Telegram chat. Telegram's privacy practices are governed by their own privacy policy, available at https://telegram.org/privacy.
 
 We do **not** sell, rent, or share your data with any other third parties for marketing or any other purpose.
+
+The site-owner data described in section 2.1 is shared only with the service providers needed to run it: **Resend** (email delivery) and **Vercel** and **Neon** (hosting and database). Vercel and Neon may process data outside Türkiye; such transfers are made in line with KVKK Art. 9 and applicable safeguards.
 
 ## 5. Data Storage and Security
 
@@ -62,6 +73,7 @@ We do **not** sell, rent, or share your data with any other third parties for ma
 - Configuration data is retained as long as the App is installed on your site
 - When you uninstall the App, all your configuration data is deleted within 30 days
 - Order notification data is not persistently stored
+- Site-owner data (section 2.1): the email address is stored encrypted and is deleted no later than 30 days after uninstall, or as soon as the survey is submitted. The site name and address are deleted 12 months after uninstall. Free-text survey answers are deleted 13 months after they are submitted.
 
 ## 7. Your Rights
 
@@ -89,3 +101,6 @@ If you have any questions about this Privacy Policy or our data practices, pleas
 ---
 
 This Privacy Policy is provided in compliance with Wix App Market requirements and applicable data protection regulations.
+
+## Changes to this policy
+Benosso reserves the right to update this Privacy Policy at any time. The current and binding version is always the one published at https://privacy.benosso.com; the "Last updated" date above shows the latest change. Continued use of the App after an update means the updated policy applies.
