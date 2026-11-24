@@ -27,6 +27,10 @@ Privacy policies and terms of use for the Benosso apps on the Wix App Market.
 - [Privacy Policy](/telegram-notifier-privacy/)
 - [Terms of Use](/telegram-notifier-terms/)
 
+## inworked (Shaot)
+Free payroll & working-hours tracker for workers in Israel — [inworked.com](https://inworked.com)
+- [Privacy Policy](/inworked-privacy/)
+
 ## Benosso E-Fatura
 Turkish e-invoicing app. Its legal texts are published inside the app:
 [Gizlilik Politikası](https://wixfatura.benosso.com/gizlilik) · [KVKK Aydınlatma Metni](https://wixfatura.benosso.com/kvkk)
